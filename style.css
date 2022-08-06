@@ -1,0 +1,31 @@
+body {
+  background-color: #cccccc;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+  text-decoration: underline;
+}
+
+a {
+  font-weight: bold;
+  color: red;
+}
+
+/* Das sind styles für alle Bilder. */
+img {
+  border-radius: 25px;
+}
+
+button {
+  border-style: dashed;
+  font-size: 24px;
+}
+
+h1 {
+  opacity: 0.5;
+}
+
+.my-superclass {
+  text-decoration: overline;
+}
